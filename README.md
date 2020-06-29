@@ -10,8 +10,10 @@ Use the standard pip installer to install libraries. (Python 3)
 7. pip install seaborn
 
 # Disaster Response Pipeline Project Udacity
-In this course, I learned skills to expand the opportunities and potential as a data scientist.
-Github link: 
+In this course, I learned skills to expand the opportunities and potential as a data scientist.  
+
+Github link: https://github.com/Bhanu-C/Disaster-pipline-udacity  
+
 Go to http://0.0.0.0:3001/
 
 # Project Motivation:
